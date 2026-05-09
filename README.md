@@ -2,7 +2,7 @@
 
 [![Latest Release](https://img.shields.io/github/v/release/Amir-Naji/RefereePro-Releases?label=download&style=for-the-badge)](https://github.com/Amir-Naji/RefereePro-Releases/releases/latest)
 
-A professional multi-camera video review system for hockey officiating. Think of it as a portable VAR system that runs on any Windows laptop.
+A professional multi-camera video review system for Judo officiating. Think of it as a portable video review system that runs on any Windows laptop.
 
 ## Download
 
@@ -61,7 +61,7 @@ http://<director-ip>:9080
 
 ## Support
 
-Contact: [your@email.com](mailto:amir.amininaji@gmail.com)
+Contact: [your@email.com](mailto:your@email.com)
 
 ---
 
