@@ -4,6 +4,8 @@
 
 A professional multi-camera video review system for Judo officiating. Think of it as a portable video review system that runs on any Windows laptop.
 
+Please contact me before you use it. Thank you.
+
 ## Download
 
 **[⬇ Download Latest Installer](https://github.com/Amir-Naji/RefereePro-Releases/releases/latest)**
