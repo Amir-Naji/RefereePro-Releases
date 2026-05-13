@@ -61,7 +61,7 @@ http://<director-ip>:9080
 
 ## Support
 
-Contact: [your@email.com](mailto:your@email.com)
+Contact: [your@email.com](mailto:amir.amininaji@gmail.com)
 
 ---
 
